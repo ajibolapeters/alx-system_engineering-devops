@@ -11,3 +11,4 @@ a script that duplicates the last line of the file iacta
 a script that deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
 No more javascript
 Create a script that displays the 10 newest files in the current directory, One file per line, Sorted from the newest to the oldest
+Create a script that takes a list of words as input and prints only words that appear exactly once
