@@ -9,3 +9,4 @@ a shell script that creates a file named exactly \*\\'"Best School"\'\\*$?\*\*\*
 a script that writes into the file ls cwd content the result of the command ls -la. If the file already exists
 a script that duplicates the last line of the file iacta
 a script that deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
+No more javascript
