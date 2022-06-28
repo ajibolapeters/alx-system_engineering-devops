@@ -10,3 +10,4 @@ a script that writes into the file ls cwd content the result of the command ls -
 a script that duplicates the last line of the file iacta
 a script that deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
 No more javascript
+Create a script that displays the 10 newest files in the current directory, One file per line, Sorted from the newest to the oldest
